@@ -1,0 +1,43 @@
+#pragma once
+enum class STATE_GAME {
+	CONTINUING_GAME,
+	GAME_OVER
+};
+
+enum class COLLISION_TYPE {
+	ANGLES,
+	ANGLES0,
+	SIDES,
+	SIDES0,
+	SIDES1,
+	SIDES2,
+	SIDES3,
+	PADDLE,
+	BALL,
+	NO_COLLISION
+};
+
+enum class TYPE_BRICK {
+	MOVING,
+	BONUS
+};
+
+enum class TYPE_BONUS {
+	PADDLE,
+	BRICK,
+	SPEED,
+	KEY_PRESS,
+	SECOND_PADDLE,
+	DIRECTION
+};
+
+enum COLOR {
+	GREEN,
+	YELLOW,
+	RED,
+	BLUE,
+	WHITE,
+	CYAN,
+	MAGENTA,
+	BLACK
+};

@@ -1,0 +1,150 @@
+﻿  Ball.cpp
+D:\ARCANOID_V\ARCANOID_V\Ball.cpp(26,69): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\ARCANOID_V\ARCANOID_V\Ball.cpp(27,69): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  BallSticking.cpp
+D:\ARCANOID_V\ARCANOID_V\Brick.h(23,88): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\ARCANOID_V\ARCANOID_V\BallSticking.cpp(8,61): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\ARCANOID_V\ARCANOID_V\BallSticking.cpp(9,62): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Bonus.cpp
+D:\ARCANOID_V\ARCANOID_V\Brick.h(23,88): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Brick.cpp
+D:\ARCANOID_V\ARCANOID_V\Brick.h(23,88): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\ARCANOID_V\ARCANOID_V\Brick.cpp(8,7): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\ARCANOID_V\ARCANOID_V\Brick.cpp(11,42): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\ARCANOID_V\ARCANOID_V\Brick.cpp(12,58): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\ARCANOID_V\ARCANOID_V\Brick.cpp(31,82): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\ARCANOID_V\ARCANOID_V\Brick.cpp(32,81): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\ARCANOID_V\ARCANOID_V\Brick.cpp(33,130): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\ARCANOID_V\ARCANOID_V\Brick.cpp(34,127): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\ARCANOID_V\ARCANOID_V\Brick.cpp(125,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\ARCANOID_V\ARCANOID_V\Brick.cpp(136,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ChangeDirection.cpp
+D:\ARCANOID_V\ARCANOID_V\Brick.h(23,88): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\ARCANOID_V\ARCANOID_V\ChangeDirection.cpp(8,61): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\ARCANOID_V\ARCANOID_V\ChangeDirection.cpp(9,62): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  ChangeSizePaddle.cpp
+D:\ARCANOID_V\ARCANOID_V\Brick.h(23,88): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\ARCANOID_V\ARCANOID_V\ChangeSizePaddle.cpp(8,61): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\ARCANOID_V\ARCANOID_V\ChangeSizePaddle.cpp(9,62): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  ChangeSpeedBall.cpp
+D:\ARCANOID_V\ARCANOID_V\Brick.h(23,88): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\ARCANOID_V\ARCANOID_V\ChangeSpeedBall.cpp(8,61): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\ARCANOID_V\ARCANOID_V\ChangeSpeedBall.cpp(9,62): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  DisposablePaddle.cpp
+D:\ARCANOID_V\ARCANOID_V\Brick.h(23,88): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\ARCANOID_V\ARCANOID_V\DisposablePaddle.cpp(8,61): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\ARCANOID_V\ARCANOID_V\DisposablePaddle.cpp(9,62): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Field.cpp
+D:\ARCANOID_V\ARCANOID_V\Brick.h(23,88): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\VS2019\VC\Tools\MSVC\14.26.28720\include\xmemory(204,33): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\VS2019\VC\Tools\MSVC\14.26.28720\include\memory(1489): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::_Construct_in_place<_Ty,int,int&,int&,float&,float&>(_Ty &,int &&,int &,int &,float &,float &) noexcept(false)"
+          with
+          [
+              _Ty=Brick
+          ]
+D:\VS2019\VC\Tools\MSVC\14.26.28720\include\memory(1587): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<int,int&,int&,float&,float&>(int &&,int &,int &,float &,float &)"
+          with
+          [
+              _Ty=Brick
+          ]
+D:\VS2019\VC\Tools\MSVC\14.26.28720\include\memory(1588): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<int,int&,int&,float&,float&>(int &&,int &,int &,float &,float &)"
+          with
+          [
+              _Ty=Brick
+          ]
+D:\ARCANOID_V\ARCANOID_V\Field.cpp(10): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::shared_ptr<Brick> std::make_shared<Brick,int,int&,int&,float&,float&>(int &&,int &,int &,float &,float &)"
+D:\VS2019\VC\Tools\MSVC\14.26.28720\include\xmemory(204,33): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+D:\VS2019\VC\Tools\MSVC\14.26.28720\include\memory(1489): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::_Construct_in_place<_Ty,int,int&,int,float,float>(_Ty &,int &&,int &,int &&,float &&,float &&) noexcept(false)"
+          with
+          [
+              _Ty=Brick
+          ]
+D:\VS2019\VC\Tools\MSVC\14.26.28720\include\memory(1587): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<int,int&,int,float,float>(int &&,int &,int &&,float &&,float &&)"
+          with
+          [
+              _Ty=Brick
+          ]
+D:\VS2019\VC\Tools\MSVC\14.26.28720\include\memory(1588): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<int,int&,int,float,float>(int &&,int &,int &&,float &&,float &&)"
+          with
+          [
+              _Ty=Brick
+          ]
+D:\ARCANOID_V\ARCANOID_V\Field.cpp(60): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::shared_ptr<Brick> std::make_shared<Brick,int,int&,int,float,float>(int &&,int &,int &&,float &&,float &&)"
+  Game.cpp
+D:\ARCANOID_V\ARCANOID_V\Brick.h(23,88): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\ARCANOID_V\ARCANOID_V\Game.cpp(10,34): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+D:\ARCANOID_V\ARCANOID_V\Game.cpp(36,26): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+D:\ARCANOID_V\ARCANOID_V\Game.cpp(70,24): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+  Objects.cpp
+  Paddle.cpp
+  ProcessingGame.cpp
+D:\ARCANOID_V\ARCANOID_V\Brick.h(23,88): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  ShiftingBrick.cpp
+D:\ARCANOID_V\ARCANOID_V\Brick.h(23,88): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\ARCANOID_V\ARCANOID_V\ShiftingBrick.cpp(8,61): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\ARCANOID_V\ARCANOID_V\ShiftingBrick.cpp(9,62): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  main.cpp
+D:\ARCANOID_V\ARCANOID_V\Brick.h(23,88): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Создание кода...
+D:\ARCANOID_V\ARCANOID_V\Brick.cpp(106): warning C4715: Brick::TypeCollision: значение возвращается не при всех путях выполнения
+  ARCANOID_V.vcxproj -> D:\ARCANOID_V\x64\Debug\ARCANOID_V.exe
