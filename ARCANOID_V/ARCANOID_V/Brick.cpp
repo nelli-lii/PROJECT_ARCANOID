@@ -43,16 +43,6 @@ Brick::Brick(int brickLevel, int x, int y, int _spaceX, int _spaceY) :
 	frame[2].setPosition(x * (WIDTH_BRICK + WIDTH) + _spaceX, y * (HEIGHT_BRICK + WIDTH) + _spaceY + 40);
 	frame[3].setPosition((x + 1) * (WIDTH_BRICK + WIDTH) + WIDTH + _spaceX, y * (HEIGHT_BRICK + WIDTH) + _spaceY + 40);
 
-	sf::FloatRect c0 = corner[0].getGlobalBounds();
-	sf::FloatRect c1 = corner[1].getGlobalBounds();
-	sf::FloatRect c2 = corner[2].getGlobalBounds();
-	sf::FloatRect c3 = corner[3].getGlobalBounds();
-
-	sf::FloatRect l0 = lines[0].getGlobalBounds();
-	sf::FloatRect l1 = lines[1].getGlobalBounds();
-	sf::FloatRect l2 = lines[2].getGlobalBounds();
-	sf::FloatRect l3 = lines[3].getGlobalBounds();
-
 	brick.setPosition(place);
 }
 TYPE_BRICK Brick::GetType()
