@@ -2,8 +2,8 @@
 
 #include <SFML/Graphics.hpp>
 
-
 #include "Constants.h"
+#include "EnumConstants.h"
 
 #include <vector>
 #include <array>

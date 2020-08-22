@@ -1,5 +1,4 @@
 #pragma once
-#include "EnumConstants.h"
 // Constants for the game grid size
 static int const X = 8;
 static int const Y = 5;
